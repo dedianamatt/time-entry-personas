@@ -1,0 +1,22 @@
+{
+  "name": "time-entry-personas",
+  "version": "1.0.0",
+  "description": "static website showing time entry personas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedianamatt/time-entry-personas.git"
+  },
+  "author": "Matt DeDiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedianamatt/time-entry-personas/issues"
+  },
+  "homepage": "https://github.com/dedianamatt/time-entry-personas#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
